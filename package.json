@@ -2,6 +2,9 @@
   "name": "webapp",
   "version": "0.1.0",
   "private": true,
+  "description": "包发布",
+  "author": "tommy shelby",
+  "main": "src/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
@@ -46,5 +49,12 @@
   },
   "devDependencies": {
     "@types/three": "^0.144.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yechen1/MASTER.git"
+  },
+  "files": [
+    "src"
+  ]
 }
